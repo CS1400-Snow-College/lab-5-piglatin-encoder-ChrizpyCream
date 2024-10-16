@@ -1,0 +1,15 @@
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\bin\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.exe
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\bin\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.deps.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\bin\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.runtimeconfig.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\bin\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\bin\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.AssemblyInfoInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.AssemblyInfo.cs
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.sourcelink.json
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\refint\lab-5-piglatin-encoder-ChrizpyCream.dll
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.pdb
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\lab-5-piglatin-encoder-ChrizpyCream.genruntimeconfig.cache
+C:\Users\xxlaz\.dotnet\my-code-dir\lab-5-piglatin-encoder-ChrizpyCream\obj\Debug\net8.0\ref\lab-5-piglatin-encoder-ChrizpyCream.dll

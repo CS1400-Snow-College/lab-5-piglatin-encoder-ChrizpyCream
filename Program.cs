@@ -1,39 +1,33 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
+﻿
 
 Console.Clear();
 
 // greeting and description
 Console.WriteLine("Welcome to the Piglatin encoder anything you say will be put into Piglatin and encoded");
-Console.WriteLine("Please give me a few words or sentences");
+Console.WriteLine("Please enter a a couple word or sentences"); //description and greetings 
 string phrase = Console.ReadLine();
 
-//phrase split into words
-string[] wordArray = phrase.Split(' ');
+
+string[] termArray = phrase.Split(' '); // split phrases into words 
 int letterMove = 0;
 
 
-for(int i = 0; i<wordArray.Length; i++)
+for(int i = 0; i<termArray.Length; i++)
 {
 
-while(!"aeiou".Contains(wordArray[i][0])) // while the first letter is not a vowel
+while(!"aeiou".Contains(termArray[i][0]))
 {
-    wordArray[i] = wordArray[i].Substring(1) + wordArray[i][0]; //take the first letter and move it to the back.
-    letterMove ++; // checks if the first letter got moved at all
+    termArray[i] = termArray[i].Substring(1) + termArray[i][0]; // takes the first letter and move it to the back of the word.
+    letterMove ++; //  makes sure the first letter moved 
 }
-    if(letterMove > 0) // if the letter did get move the word started with a consonant 
+    if(letterMove > 0) // if the first letter didnt move the word, the word started with a consonant 
     {
-        wordArray[i] = wordArray[i] + "ay ";
-    }else // if it did not then the word started with a vowel
+        termArray[i] = termArray[i] + "ay ";
+    }else // if not then the word started with a vowel
     {
-        wordArray[i] = wordArray[i] + "way ";
+        termArray[i] = termArray[i] + "way ";
     }
 
-    letterMove = 0;  //resets the counter for the next word.
-    Console.Write($"{wordArray[i]}"); 
+    letterMove = 0;  // resets the counter for the next word in the orginak statment above.
+    Console.Write($"{termArray[i]}"); 
 }
-
-
-//So that there is a space
-Console.WriteLine();
