@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-5-piglatin-encoder-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef69a1dad97e3f5a956ef4aba735a6bf1106493")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e4902c3328f1a0573f9bde93856f93c4a5e77b")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-5-piglatin-encoder-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-5-piglatin-encoder-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
